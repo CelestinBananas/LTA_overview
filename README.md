@@ -7,12 +7,12 @@ Version 0 :
 
 Version 1 (Tuesday 25/01/22):
 - [x] Include exposures -filter in plot function for exposure range, default all 
-- [ ] Fermi gamma ray map (can't find)
 - [x] Circle for A-team and make optional
 - [x] Clickable markers - proj, SASID, antenna, ant filter
 - [x] Make background optional
-- [ ] add 2MASS and TGSS https://irsa.ipac.caltech.edu/Missions/2mass.html https://vo.astron.nl/tgssadr/q_fits/imgs/form
-- [ ] implement on notebook
+- [ ] Implement interactive plots on notebook
+- [ ] Add Fermi gamma ray,  2MASS and TGSS maps https://irsa.ipac.caltech.edu/Missions/2mass.html https://vo.astron.nl/tgssadr/q_fits/imgs/form
+
 
 Version 2:
 - [ ] 90% Time and smearing
