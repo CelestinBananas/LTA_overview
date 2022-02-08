@@ -1,5 +1,8 @@
 # LTA_overview
+Here you will find a some scripts to have an overview of the LTA content. The scripts are available both as a script and as a notebook, both of which offer interactive plots. 
+> Note: For JupyterLab the interactive plots do not yet work and will require the use of the `%matplotlib inline` command instead of `%matplotlib notebook` in the first cell.
 
+# Versions:
 Version 0 :
 - [x] Split HBA LBA, project, debug mode: include verification checks
 - [x] TBD: add A-team sources location on the skymap view; add warning for filtering out the WTG-verification-DMO
@@ -10,7 +13,7 @@ Version 1 (Tuesday 25/01/22):
 - [x] Circle for A-team and make optional
 - [x] Clickable markers - proj, SASID, antenna, ant filter
 - [x] Make background optional
-- [ ] Implement interactive plots on notebook
+- [x] Implement interactive plots on notebook
 - [ ] Add Fermi gamma ray,  2MASS and TGSS maps https://irsa.ipac.caltech.edu/Missions/2mass.html https://vo.astron.nl/tgssadr/q_fits/imgs/form
 
 
@@ -22,7 +25,3 @@ Other Notes:
 - Reevaluate the usefulness of the to_keep list, is this not similar/or made redundant with the plotprojects specification of the plot_overview function ?
 - Filtering unique ra and dec and antenna is temp, later will take into account 
 - Will eventually run with Julich data (will require extra input param) and add if project/data is in both datbases
-
-Notes from 12/01:
-- clickable markers
-- interactive!
