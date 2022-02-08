@@ -1,5 +1,7 @@
 # LTA_overview
+Here you will find a some scripts to have an overview of the LTA content. The scripts are available both as a script and as a notebook, both of which offer interactive plots. Note that for JupyterLab the interactive plots do not yet work and will require the use of the "%matplotlib inline" command instead of "%matplotlib notebook" in the first cell.
 
+# Versions:
 Version 0 :
 - [x] Split HBA LBA, project, debug mode: include verification checks
 - [x] TBD: add A-team sources location on the skymap view; add warning for filtering out the WTG-verification-DMO
