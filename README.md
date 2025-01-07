@@ -1,5 +1,5 @@
 # LTA_overview
-Here you will find a some scripts to have an overview of the LTA content. The scripts are available both as a script and as a notebook, both of which offer interactive plots. 
+Here you will find a some scripts to have an overview of the LTA content of the LOFAR telescope. The scripts are available both as a script and as a notebook, both of which offer interactive plots. 
 > Note: For JupyterLab the interactive plots do not yet work and will require the use of the `%matplotlib inline` command instead of `%matplotlib notebook` in the first cell.
 
 # Versions:
